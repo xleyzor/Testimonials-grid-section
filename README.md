@@ -9,7 +9,7 @@
 
 <ul>
     <li>
-    Solution URL: <a href="https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub?share=true">Click Here!</a>
+    Solution URL: <a href="https://www.frontendmentor.io/solutions/testimonials-grid-section-pLXnXs5gUc">Click Here!</a>
     </li>
     <li>
     Live site URL: <a href="https://testimonials-grid-section-rho-rose.vercel.app">Click Here!</a>
