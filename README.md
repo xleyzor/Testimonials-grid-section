@@ -9,9 +9,9 @@
 
 <ul>
     <li>
-    Solution URL: <a href="https://www.frontendmentor.io/solutions/recipe-page-8NOUkvoKCq#comment-6676baf1983369c533f7b383">Click Here!</a>
+    Solution URL: <a href="https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub?share=true">Click Here!</a>
     </li>
     <li>
-    Live site URL: <a href="https://social-links-profile-delta-brown.vercel.app">Click Here!</a>
+    Live site URL: <a href="https://testimonials-grid-section-rho-rose.vercel.app">Click Here!</a>
     </li>
 </ul>
