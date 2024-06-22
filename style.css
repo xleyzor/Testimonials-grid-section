@@ -154,6 +154,11 @@ main {
     overflow: hidden;
   }
 
+  a {
+    text-decoration: none;
+    cursor: pointer;
+  }
+
   .svg {
     right: 20px;
   }
